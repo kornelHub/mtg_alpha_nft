@@ -1,0 +1,2 @@
+description = "Limited Edition Alpha, commonly known as Alpha, is the first print run of Limited Edition, the first core set of Magic: The Gathering. Alpha contains 295 black-bordered cards and was released on August 5, 1993. " \
+               "Alpha was designed by Richard Garfield and the Limited Edition design and development team (Charlie Cateeno, Skaff Elias, Don Felice, Tom Fontaine, Jim Lin, Joel Mick, Chris Page, Dave Pettey, Barry Reich, Bill Rose, and Elliott Segal)."

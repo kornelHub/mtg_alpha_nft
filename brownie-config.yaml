@@ -1,0 +1,11 @@
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@4.3.3
+compiler:
+  solc:
+    remappings:
+      - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.3.3'
+networks:
+  rinkeby:
+    wallets:
+      RINKEBY_ACC1_PRIVATE_KEY: ${RINKEBY_ACC1_PRIVATE_KEY}
+dotenv: .env
