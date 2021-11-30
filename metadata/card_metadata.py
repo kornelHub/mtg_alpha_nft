@@ -12,15 +12,7 @@ creature_template = {
             'value': ''
         },
         {
-            'trait_type': 'Card Text',
-            'value': ''
-        },
-        {
             'trait_type': 'P/T',
-            'value': ''
-        },
-        {
-            'trait_type': 'Flavor Text',
             'value': ''
         },
         {
@@ -35,7 +27,8 @@ creature_template = {
             'trait_type': 'Artist',
             'value': ''
         },
-    ]
+    ],
+    'about': ''
 }
 
 nocreature_template = {
@@ -52,14 +45,6 @@ nocreature_template = {
             'value': ''
         },
         {
-            'trait_type': 'Card Text',
-            'value': ''
-        },
-        {
-            'trait_type': 'Flavor Text',
-            'value': ''
-        },
-        {
             'trait_type': 'Expansion',
             'value': 'Limited Edition Alpha'
         },
@@ -71,7 +56,8 @@ nocreature_template = {
             'trait_type': 'Artist',
             'value': ''
         },
-    ]
+    ],
+    'about': ''
 }
 
 land_template = {
@@ -84,14 +70,6 @@ land_template = {
             'value': ''
         },
         {
-            'trait_type': 'Card Text',
-            'value': ''
-        },
-        {
-            'trait_type': 'Flavor Text',
-            'value': ''
-        },
-        {
             'trait_type': 'Expansion',
             'value': 'Limited Edition Alpha'
         },
@@ -103,5 +81,6 @@ land_template = {
             'trait_type': 'Artist',
             'value': ''
         },
-    ]
+    ],
+    'about': ''
 }
