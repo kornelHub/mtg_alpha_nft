@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract LimitedEditionAlpha is ERC721URIStorage, ERC721Holder, Ownable {
     uint256 public tokenCounter;
 
-    constructor() ERC721("Limited Edition Alpha MTG set", "Alpha_MTG") ERC721Holder(){
+    constructor() ERC721("Limited Edition Alpha MTG Set", "Alpha_MTG") ERC721Holder(){
         tokenCounter = 0;
     }
 

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6bdc024-00a5-4ba4-a5bc-ceb3d04a0799" name="Changes" comment="" />
+    <list default="true" id="a6bdc024-00a5-4ba4-a5bc-ceb3d04a0799" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/LimitedEditionAlpha.sol" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/LimitedEditionAlpha.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/create_uri.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/uploads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/deploy.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/deploy.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/metadata" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mtg_crawler" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
@@ -45,6 +50,30 @@
       <option name="presentableId" value="Default" />
       <updated>1637664791883</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1638185079329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638185079329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
